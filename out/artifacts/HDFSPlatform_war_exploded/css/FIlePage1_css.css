@@ -1,0 +1,212 @@
+.green {
+    color: #3e6db9;
+}
+
+.beautiful {
+    width: 100%;
+    height: 300px;
+    background-image: url("../image/bg01.png");
+    background-size: cover;
+}
+
+.sign {
+    width: 55px;
+    height: 60px;
+}
+
+.file_info {
+    width: 1000px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.table_inside {
+    margin: auto;
+    margin-top: 10px;
+    width: 1000px;
+    height: 280px;
+    position: absolute;
+}
+
+.ta_inside_inside {
+    margin-top: 10px;
+    height: 280px;
+    overflow-y: scroll;
+}
+
+.ta_file {
+    width: 975px;
+    height: 280px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid #eeeeee;
+    border-width: 0 0 1px 0;
+}
+
+.ta_file td {
+    height: 50px;
+}
+
+.de_bl {
+    color: #000;
+}
+
+.tinyinterface {
+    margin: auto;
+    width: 1000px;
+    height: 260px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.ta_block_isinside {
+    overflow-y: scroll;
+    height: 190px;
+}
+
+.ta_block {
+    width: 100%;
+    height: 170px;
+    text-align: center;
+}
+
+.ta_block td {
+    height: 45px;
+    width: 33%;
+    border: 1px solid #e0e0e0;
+    border-width: 0 0 1px 0;
+}
+
+.block_interface_introduction {
+    margin-left: 25%;
+    margin-top: 5px;
+    font-size: 115%;
+}
+
+.tiny_interface_btn {
+    height: 30px;
+    background: transparent;
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+}
+
+.delete_block {
+    background: transparent;
+}
+
+.part {
+    width: 1000px;
+    margin: auto;
+    margin-top: 330px;
+}
+
+.slave_info {
+    width: 30%;
+    float: left;
+}
+
+.slave_info_tit {
+    font-size: 150%;
+    margin-left: 30px;
+}
+
+.btn_operation {
+    width: 60px;
+}
+
+.ta_slave {
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid #eeeeee;
+    border-width: 0 0 1px 0;
+}
+
+.ta_slave td {
+    height: 50px;
+}
+
+.operation {
+    width: 70%;
+    float: right;
+}
+
+.operation_Upload {
+    position: absolute;
+    margin-top: 40px;
+    width: 700px;
+}
+
+.operation_tit {
+    margin-left: 20px;
+}
+
+.do_operation {
+    width: 95%;
+    height: 250px;
+    margin-top: -25px;
+    margin-left: 30px;
+    border: 4px solid #eeeeee;
+    border-radius: 5px;
+}
+
+.ta_upload {
+    height: 100%;
+    margin-left: 100px;
+}
+
+.parameter {
+    width: 250px;
+}
+
+.parameter1 {
+    width: 150px;
+}
+
+.file_up_up {
+    cursor: pointer;
+    opacity: 0;
+    position: absolute;
+    width: 100px;
+}
+.file_up {
+    width: 110px;
+}
+
+.btn_up {
+    margin-left: 300px;
+}
+
+.show_opt {
+    width: 708px;
+    position: absolute;
+}
+
+.opt_tit_no {
+    width: 99%;
+}
+
+.change_log{
+    background: transparent;
+    border: 0px;
+}
+
+.se_log {
+    color: #b8b8b8;
+}
+
+.ta_inside_opt {
+    width: 99%;
+    height: 315px;
+    margin-top: 8px;
+    overflow-y: scroll;
+}
+
+.ta_opt {
+    width: 95%;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.ta_opt td {
+    height: 45px;
+}
